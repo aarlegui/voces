@@ -17,8 +17,6 @@ Esta es la historia de un pueblo. Y de todos los pueblos que, como él, guardan 
 
 📚 **Disponible en Amazon:** https://www.amazon.es/VOCES-DEL-BALC%C3%93N-LOS-BUITRES/dp/B0GCH38LNT/
 
----
-
 ## Galería fotográfica
 
 En este repositorio encontrarás una colección de fotografías históricas relacionadas con los lugares y épocas mencionados en el libro:
@@ -28,8 +26,6 @@ En este repositorio encontrarás una colección de fotografías históricas rela
 - El ferrocarril del Plazaola
 - El mercado de los martes
 - Y otros lugares del valle de Arakil
-
----
 
 ## Sobre el autor
 
