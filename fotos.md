@@ -10,5 +10,4 @@ En los siguientes enlaces encontrarás una colección de fotografías histórica
 | Archivo Abierto de Navarra - Irurtzun | https://www.navarra.es/home_es/Temas/Turismo+ocio+y+cultura/Archivos/Programas/Archivo+Abierto/Buscador/?Ambito=FOTOTECA&TextoLibre=irurtzun |
 | Archivo Abierto de Navarra - Irurzun | https://www.navarra.es/home_es/Temas/Turismo+ocio+y+cultura/Archivos/Programas/Archivo+Abierto/Buscador/?Ambito=FOTOTECA&TextoLibre=irurzun |
 | Archivo Abierto de Navarra - Dos Hermanas | https://www.navarra.es/home_es/Temas/Turismo+ocio+y+cultura/Archivos/Programas/Archivo+Abierto/Buscador/?Ambito=FOTOTECA&TextoLibre=dos+hermanas |
-| Portal Cultura Navarra - Irurtzun | https://portalcultura.navarra.es/Search/Results?filter%5B%5D=~tesauro_geographic_en%3A%22Irurtzun%22 |
 | Wikimedia Commons - Irurtzun | https://commons.wikimedia.org/wiki/Category:Irurtzun |
