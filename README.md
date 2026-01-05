@@ -2,8 +2,6 @@
 
 **Una novela histórica sobre Irurtzun, Navarra**
 
----
-
 ## Sinopsis
 
 Desde las ruinas de un castillo medieval hasta las naves industriales del siglo XXI, *Voces del Balcón de los Buitres* recorre ochocientos años de historia a través de los ojos de quienes vivieron en un pequeño pueblo del valle de Arakil.
@@ -14,13 +12,10 @@ Diez capítulos, diez épocas, una misma tierra. Las Dos Hermanas —esas peñas
 
 Esta es la historia de un pueblo. Y de todos los pueblos que, como él, guardan en sus calles el eco de quienes los habitaron.
 
----
 
 ## Adquirir el libro
 
-📚 **Disponible en Amazon:**
-
-### [VOCES DEL BALCÓN DE LOS BUITRES](https://www.amazon.es/VOCES-DEL-BALC%C3%93N-LOS-BUITRES/dp/B0GCH38LNT/)
+📚 **Disponible en Amazon:** https://www.amazon.es/VOCES-DEL-BALC%C3%93N-LOS-BUITRES/dp/B0GCH38LNT/
 
 ---
 
